@@ -57,10 +57,8 @@ Number of hotels per city.
 Category-wise room and hotel details.
 
 Technologies Used:
+
 Python
-
 Pandas for data manipulation
-
 NumPy for numerical operations
-
 Matplotlib for visualizations
