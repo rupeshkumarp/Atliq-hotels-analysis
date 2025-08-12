@@ -34,18 +34,18 @@ dim_date.csv — Date-related information for analysis.
 
 <h1>Installation & Setup:</h1>
 
-<h2>Clone this repository:</h2>
+<h3>Clone this repository:</h3>
      
      git clone https://github.com/rupeshkumarp/Atliq-hotels-analysis.git
 
-<h2>Install required dependencies:</h2>
+<h3>Install required dependencies:</h3>
 
      pip install pandas numpy matplotlib
 Place the datasets in the datasets folder (as structured in the notebook).
 
 <h1>How to Run:</h1>
 
-<h2>Open Jupyter Notebook:</h2>
+<h3>Open Jupyter Notebook:</h3>
     jupyter notebook
 Open project.ipynb and run all cells to reproduce the analysis.
 
