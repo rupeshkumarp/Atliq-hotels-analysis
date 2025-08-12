@@ -1,7 +1,7 @@
 # Atliq-hotels-analysis  
-This project performs data exploration and analysis on hospitality booking data, extracting valuable insights about hotel performance, booking trends, revenue generation, and platform distribution.
+This project performs data exploration and analysis on hotels booking data, extracting valuable insights about hotel performance, booking trends, revenue generation, and platform distribution.
 
-Project Overview:
+project Overview:
 
 The notebook analyzes multiple CSV datasets containing:
 Booking records (fact_bookings.csv)
