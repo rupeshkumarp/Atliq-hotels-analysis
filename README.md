@@ -23,9 +23,13 @@ Aggregating hotel and city-level insights
 Dataset Structure:
 
 fact_bookings.csv — Detailed booking records with room category, booking platform, revenue, etc.
+
 fact_aggregated_bookings.csv — Aggregated booking metrics.
+
 dim_hotels.csv — Hotel details such as category, property name, and city.
+
 dim_rooms.csv — Room categories and details.
+
 dim_date.csv — Date-related information for analysis.
 
 Installation & Setup:
