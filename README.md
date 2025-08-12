@@ -1,7 +1,7 @@
 # Atliq-hotels-analysis  
 This project performs data exploration and analysis on hospitality booking data, extracting valuable insights about hotel performance, booking trends, revenue generation, and platform distribution.
 
-Project Overview
+Project Overview:
 
 The notebook analyzes multiple CSV datasets containing:
 Booking records (fact_bookings.csv)
@@ -31,6 +31,7 @@ dim_date.csv — Date-related information for analysis.
 Installation & Setup:
 
 Clone this repository:
+     
      git clone https://github.com/<your-username>/<repo-name>.git
 
 Install required dependencies:
