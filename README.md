@@ -1,7 +1,7 @@
 # Atliq-hotels-analysis  
 This project performs data exploration and analysis on hotels booking data, extracting valuable insights about hotel performance, booking trends, revenue generation, and platform distribution.
 
-project Overview:
+#project Overview:
 
 The notebook analyzes multiple CSV datasets containing:
 Booking records (fact_bookings.csv)
@@ -10,7 +10,7 @@ Hotel details (dim_hotels.csv)
 Room information (dim_rooms.csv)
 Date dimension (dim_date.csv)
 
-Key operations include:
+#Key operations include:
 
 Reading and exploring datasets
 Finding unique room categories and booking platforms
@@ -20,7 +20,7 @@ Analyzing revenue statistics
 Cleaning and correcting data (e.g., city name corrections)
 Aggregating hotel and city-level insights
 
-Dataset Structure:
+#Dataset Structure:
 
 fact_bookings.csv — Detailed booking records with room category, booking platform, revenue, etc.
 
@@ -32,31 +32,31 @@ dim_rooms.csv — Room categories and details.
 
 dim_date.csv — Date-related information for analysis.
 
-Installation & Setup:
+#Installation & Setup:
 
-Clone this repository:
+##Clone this repository:
      
      git clone https://github.com/rupeshkumarp/Atliq-hotels-analysis.git
 
-Install required dependencies:
+##Install required dependencies:
 
      pip install pandas numpy matplotlib
 Place the datasets in the datasets folder (as structured in the notebook).
 
-How to Run:
+#How to Run:
 
-Open Jupyter Notebook:
+##Open Jupyter Notebook:
     jupyter notebook
 Open project.ipynb and run all cells to reproduce the analysis.
 
-Example Insights:
+#Example Insights:
 
 Most popular booking platforms and their share.
 Revenue distribution (max, min) across bookings.
 Number of hotels per city.
 Category-wise room and hotel details.
 
-Technologies Used:
+#Technologies Used:
 
 
 Python
