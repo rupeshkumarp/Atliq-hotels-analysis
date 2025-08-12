@@ -1,7 +1,7 @@
 # Atliq-hotels-analysis  
 This project performs data exploration and analysis on hotels booking data, extracting valuable insights about hotel performance, booking trends, revenue generation, and platform distribution.
 
-<h1>project Overview:<h1>
+<h1>project Overview:</h1>
 
 The notebook analyzes multiple CSV datasets containing:
 Booking records (fact_bookings.csv)
@@ -10,7 +10,7 @@ Hotel details (dim_hotels.csv)
 Room information (dim_rooms.csv)
 Date dimension (dim_date.csv)
 
-<h1>Key operations include:<h1>
+<h1>Key operations include:</h1>
 
 Reading and exploring datasets
 Finding unique room categories and booking platforms
@@ -20,7 +20,7 @@ Analyzing revenue statistics
 Cleaning and correcting data (e.g., city name corrections)
 Aggregating hotel and city-level insights
 
-<h1>Dataset Structure:<h1>
+<h1>Dataset Structure:</h1>
 
 fact_bookings.csv — Detailed booking records with room category, booking platform, revenue, etc.
 
