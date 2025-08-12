@@ -36,7 +36,7 @@ Installation & Setup:
 
 Clone this repository:
      
-     git clone https://github.com/<your-username>/<repo-name>.git
+     git clone https://github.com/rupeshkumarp/Atliq-hotels-analysis.git
 
 Install required dependencies:
 
