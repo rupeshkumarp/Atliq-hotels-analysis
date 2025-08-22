@@ -48,7 +48,7 @@ dim_date.csv — Date-related information for analysis.
 
 <h2>Clone this repository:</h2>
 
-            git clone https://github.com/rupeshkumarp/Atliq-hotels-analysis.git
+            https://github.com/rupeshkumarp/Atliq-hotels-analysis.git
 
 
 <h2>Install required dependencies:</h2>
