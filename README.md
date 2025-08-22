@@ -16,7 +16,7 @@ Room information (dim_rooms.csv)
 
 Date dimension (dim_date.csv)
 
-<h1>Key operations include:</h1>
+<h2>Key operations include:</h2>
 
 Reading and exploring datasets
 
