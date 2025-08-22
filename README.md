@@ -4,7 +4,7 @@ This project performs data exploration and analysis on hospitality booking data,
 
 <h1>Project Overview</h1>
 
-The notebook analyzes multiple CSV datasets containing:
+<h2>The notebook analyzes multiple CSV datasets containing:</h2>
 
 Booking records (fact_bookings.csv)
 
@@ -46,13 +46,12 @@ dim_date.csv — Date-related information for analysis.
 
 <h1>Installation & Setup</h1>
 
-Clone this repository:
+<h2>Clone this repository:</h2>
 
             git clone https://github.com/rupeshkumarp/Atliq-hotels-analysis.git
-cd 
 
 
-Install required dependencies:
+<h2>Install required dependencies:</h2>
 
           pip install pandas numpy matplotlib
 
